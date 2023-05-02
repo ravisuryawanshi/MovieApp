@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1683017481311" clover="3.2.0">
+  <project timestamp="1683017481311" name="All files">
+    <metrics statements="66" coveredstatements="58" conditionals="10" coveredconditionals="8" methods="23" coveredmethods="20" elements="99" coveredelements="86" complexity="0" loc="66" ncloc="66" packages="3" files="9" classes="9"/>
+    <package name="Components">
+      <metrics statements="48" coveredstatements="45" conditionals="6" coveredconditionals="5" methods="18" coveredmethods="16"/>
+      <file name="Body.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\Body.js">
+        <metrics statements="15" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="25" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="36" count="9" type="stmt"/>
+      </file>
+      <file name="Header.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\Header.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+      </file>
+      <file name="MobileAppWebAPI.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\MobileAppWebAPI.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+      <file name="MovieApp.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\MovieApp.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+      </file>
+      <file name="MovieCard.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\MovieCard.js">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="25" type="stmt"/>
+        <line num="3" count="25" type="stmt"/>
+        <line num="5" count="25" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="MovieInfo.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\MovieInfo.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+      </file>
+      <file name="MovieList.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\MovieList.js">
+        <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="17" count="25" type="stmt"/>
+      </file>
+    </package>
+    <package name="Components.mocks">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="data.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\mocks\data.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="Components.utils">
+      <metrics statements="17" coveredstatements="12" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="4"/>
+      <file name="Helper.js" path="C:\ravi data\study\namasteReact\Basics\src\Components\utils\Helper.js">
+        <metrics statements="17" coveredstatements="12" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="4"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="10" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
